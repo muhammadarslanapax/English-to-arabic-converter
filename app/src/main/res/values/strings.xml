@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Arabic to English translator</string>
+
+
+    <string-array name="S_languages">
+        <item>Arabic(Defualt)   </item>
+        <item>English   </item>
+    </string-array>
+
+    <string-array name="T_languages">
+        <item>English(Default)   </item>
+        <item>Arabic  </item>
+    </string-array>
+
+
+</resources>
